@@ -25,5 +25,5 @@
         { "name": "Drug Screening", "code": "DUG" },
         { "name": "Microbiology Culture", "code": "MBC" },
         { "name": "Tumor Marker Tests", "code": "TMT" }
-    ],
+    ]
 }
