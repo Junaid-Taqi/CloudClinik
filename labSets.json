@@ -1,5 +1,5 @@
 {
-  "labSets": [
+  "data": [
         { "name": "Complete Blood Count (CBC)", "code": "CBC" },
         { "name": "Blood Chemistry Panel", "code": "BCP" },
         { "name": "Urinalysis", "code": "URA" },
